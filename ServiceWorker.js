@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-New Unity Project-1.0";
 const contentToCache = [
     "Build/Unity Builds.loader.js",
-    "Build/Unity Builds.framework.js.gz",
-    "Build/Unity Builds.data.gz",
-    "Build/Unity Builds.wasm.gz",
+    "Build/Unity Builds.framework.js",
+    "Build/Unity Builds.data",
+    "Build/Unity Builds.wasm",
     "TemplateData/style.css"
 
 ];
